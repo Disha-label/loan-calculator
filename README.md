@@ -1,1 +1,1 @@
-"Completed with loan calculator" 
+Completed with loan calculator
